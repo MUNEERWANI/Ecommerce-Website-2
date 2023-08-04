@@ -1,0 +1,14 @@
+.heading{
+    display: flex;
+    color:darkcyan;
+    position: relative;
+    justify-content: center;
+    height: 20vh;
+    
+}
+.image{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    height: 30vw;
+}
